@@ -16,7 +16,9 @@ The subset of the County Health Data (labled Final_Subset) includes data about t
 2. Populations that are not proficient in English
 3. Median household income
 
+## Who was this repository made for?
 This subset of the data allows people to look for a correlation between the three data sets that have been included in the subset.
 
 
+## What can I do with this data subset?
 People who are looking for data about correlations between childhood poverty, income, and populations who are not proficient in English in North Caolina can ustalize this data subset. 
