@@ -1,4 +1,4 @@
-# 105-Unit-3
+# Subset Of County Health Data
 This is a repository containing a subset of County Health Data from 2014. This subset includes information about County, Children in Poverty, Populations that are not Proficient in English, and Median household income. 
 
  ## What is in this repository?
