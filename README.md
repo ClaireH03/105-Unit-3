@@ -24,4 +24,4 @@ This subset of the data allows people to look for a correlation between the four
 ## What can I do with this data subset?
 People who are looking for data about correlations between childhood poverty, income, and populations who are not proficient in English in North Carolina can utilize this data subset. 
 
-![Children in Poverty](FPknk-rates-of-children-in-poverty.png)
+![Children in Poverty](/Images/FPknk-rates-of-children-in-poverty.png)
