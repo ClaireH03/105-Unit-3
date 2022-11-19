@@ -26,6 +26,8 @@ People who are looking for data about correlations between childhood poverty, un
 
 ## Visualizations of the Data by County 
 
+These visualizations show the level at which counties are affected by the data in the subset. 
+
 ![Children in Poverty](/Images/FPknk-rates-of-children-in-poverty.png)
 
 ![English](/Images/ymiDU-population-that-is-not-proficient-in-english.png)
