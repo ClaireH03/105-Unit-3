@@ -7,6 +7,7 @@ This repository contains the following:
 1. One python notebook
 2. A CSV file containing all of the County Health Data
 3. A CSV file containing a smaller subset of the County Health Data
+4. Visualizations of the Data by County 
 
 
 The County Health Data was provided by Professor Gotzler from the Univerity of North Carolina at Chapel Hill. 
